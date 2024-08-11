@@ -670,6 +670,10 @@
   color: #000000;
 }
 
+.footrow a:hover {
+  text-decoration: underline;
+}
+
 .foot4 input {
   border: none;
   border-bottom: 1px solid rgba(0, 0, 0, 1);
